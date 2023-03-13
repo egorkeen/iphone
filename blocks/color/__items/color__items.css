@@ -1,0 +1,5 @@
+.color__items {
+  max-width: fit-content;
+  display: flex;
+  gap: 80px;
+}

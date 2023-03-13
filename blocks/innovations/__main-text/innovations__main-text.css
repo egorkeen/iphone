@@ -1,0 +1,7 @@
+.innovations__main-text {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  max-width: 560px;
+  max-height: fit-content;
+}

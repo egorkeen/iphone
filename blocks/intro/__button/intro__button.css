@@ -1,0 +1,20 @@
+.intro__button {
+  width: 350px;
+  height: 70px;
+  margin: 25px 0 0 0;
+  padding: 0;
+  border: none;
+  border-radius: 30px;
+  background-color: #490E84;
+
+  color: white;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  transition: linear .1s;
+}
+
+.intro__button:hover {
+  cursor: pointer;
+  opacity: .8;
+}
