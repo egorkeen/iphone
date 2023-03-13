@@ -7,6 +7,6 @@
 HTML, CSS, Flexbox
 
 ## Дополнительно
-Язык: Русский
-Ссылка на сайт:
-Ссылка на макет Figma: https://www.figma.com/file/ewkjHbCzwvx79FRV4K0U5i/Iphone-14-pro?node-id=1%3A2&t=6o3zfY502qbAErvE-0 
+### Язык: Русский
+### Ссылка на сайт: https://egorkeen.github.io/iphone/
+### Ссылка на макет Figma: https://www.figma.com/file/ewkjHbCzwvx79FRV4K0U5i/Iphone-14-pro?node-id=1%3A2&t=6o3zfY502qbAErvE-0 
